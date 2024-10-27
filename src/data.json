@@ -1,0 +1,497 @@
+[
+    {
+        "id": 1,
+        "jewelry_title": "Platinum Ring",
+        "jewelry_description": "A beautiful platinum ring with intricate designs.",
+        "jewelry_category": "Ring",
+        "jewelry_metaltype": "Platinum",
+        "jewelry_price": 1200,
+        "jewelry_image": "https://example.com/images/platinum_ring.jpg"
+    },
+    {
+        "id": 2,
+        "jewelry_title": "Gold Necklace",
+        "jewelry_description": "Elegant gold necklace with diamond accents.",
+        "jewelry_category": "Necklace",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 850,
+        "jewelry_image": "https://example.com/images/gold_necklace.jpg"
+    },
+    {
+        "id": 3,
+        "jewelry_title": "Silver Bracelet",
+        "jewelry_description": "Stylish silver bracelet perfect for daily wear.",
+        "jewelry_category": "Bracelet",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 500,
+        "jewelry_image": "https://example.com/images/silver_bracelet.jpg"
+    },
+    {
+        "id": 4,
+        "jewelry_title": "Emerald Earrings",
+        "jewelry_description": "Stunning emerald earrings set in white gold.",
+        "jewelry_category": "Earrings",
+        "jewelry_metaltype": "White Gold",
+        "jewelry_price": 750,
+        "jewelry_image": "https://example.com/images/emerald_earrings.jpg"
+    },
+    {
+        "id": 5,
+        "jewelry_title": "Diamond Pendant",
+        "jewelry_description": "A classic diamond pendant that never goes out of style.",
+        "jewelry_category": "Pendant",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 1500,
+        "jewelry_image": "https://example.com/images/diamond_pendant.jpg"
+    },
+    {
+        "id": 6,
+        "jewelry_title": "Rose Gold Watch",
+        "jewelry_description": "Chic rose gold watch for elegant occasions.",
+        "jewelry_category": "Watch",
+        "jewelry_metaltype": "Rose Gold",
+        "jewelry_price": 300,
+        "jewelry_image": "https://example.com/images/rose_gold_watch.jpg"
+    },
+    {
+        "id": 7,
+        "jewelry_title": "Sapphire Ring",
+        "jewelry_description": "A stunning sapphire ring surrounded by diamonds.",
+        "jewelry_category": "Ring",
+        "jewelry_metaltype": "White Gold",
+        "jewelry_price": 2000,
+        "jewelry_image": "https://example.com/images/sapphire_ring.jpg"
+    },
+    {
+        "id": 8,
+        "jewelry_title": "Beaded Necklace",
+        "jewelry_description": "Handmade beaded necklace for a bohemian look.",
+        "jewelry_category": "Necklace",
+        "jewelry_metaltype": "None",
+        "jewelry_price": 150,
+        "jewelry_image": "https://example.com/images/beaded_necklace.jpg"
+    },
+    {
+        "id": 9,
+        "jewelry_title": "Charming Anklet",
+        "jewelry_description": "Lovely anklet with charms for a playful touch.",
+        "jewelry_category": "Anklet",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 100,
+        "jewelry_image": "https://example.com/images/charming_anklet.jpg"
+    },
+    {
+        "id": 10,
+        "jewelry_title": "Vintage Brooch",
+        "jewelry_description": "A beautiful vintage brooch for collectors.",
+        "jewelry_category": "Brooch",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 400,
+        "jewelry_image": "https://example.com/images/vintage_brooch.jpg"
+    },
+    {
+        "id": 11,
+        "jewelry_title": "Aquamarine Ring",
+        "jewelry_description": "Elegant aquamarine ring with diamond accents.",
+        "jewelry_category": "Ring",
+        "jewelry_metaltype": "White Gold",
+        "jewelry_price": 1800,
+        "jewelry_image": "https://example.com/images/aquamarine_ring.jpg"
+    },
+    {
+        "id": 12,
+        "jewelry_title": "Gemstone Cufflinks",
+        "jewelry_description": "Stylish cufflinks with various gemstone inlays.",
+        "jewelry_category": "Cufflinks",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 220,
+        "jewelry_image": "https://example.com/images/gemstone_cufflinks.jpg"
+    },
+    {
+        "id": 13,
+        "jewelry_title": "Pearl Bracelet",
+        "jewelry_description": "Classic pearl bracelet for elegant occasions.",
+        "jewelry_category": "Bracelet",
+        "jewelry_metaltype": "None",
+        "jewelry_price": 600,
+        "jewelry_image": "https://example.com/images/pearl_bracelet.jpg"
+    },
+    {
+        "id": 14,
+        "jewelry_title": "Turquoise Necklace",
+        "jewelry_description": "Bright turquoise necklace for a pop of color.",
+        "jewelry_category": "Necklace",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 400,
+        "jewelry_image": "https://example.com/images/turquoise_necklace.jpg"
+    },
+    {
+        "id": 15,
+        "jewelry_title": "Gold Hoop Earrings",
+        "jewelry_description": "Classic gold hoop earrings for everyday wear.",
+        "jewelry_category": "Earrings",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 250,
+        "jewelry_image": "https://example.com/images/gold_hoop_earrings.jpg"
+    },
+    {
+        "id": 16,
+        "jewelry_title": "Tanzanite Pendant",
+        "jewelry_description": "Unique tanzanite pendant for special occasions.",
+        "jewelry_category": "Pendant",
+        "jewelry_metaltype": "White Gold",
+        "jewelry_price": 1300,
+        "jewelry_image": "https://example.com/images/tanzanite_pendant.jpg"
+    },
+    {
+        "id": 17,
+        "jewelry_title": "Diamond Studs",
+        "jewelry_description": "Timeless diamond studs perfect for any outfit.",
+        "jewelry_category": "Earrings",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 800,
+        "jewelry_image": "https://example.com/images/diamond_studs.jpg"
+    },
+    {
+        "id": 18,
+        "jewelry_title": "Onyx Ring",
+        "jewelry_description": "Bold onyx ring that makes a statement.",
+        "jewelry_category": "Ring",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 700,
+        "jewelry_image": "https://example.com/images/onyx_ring.jpg"
+    },
+    {
+        "id": 19,
+        "jewelry_title": "Classic Watch",
+        "jewelry_description": "A classic watch that goes well with any outfit.",
+        "jewelry_category": "Watch",
+        "jewelry_metaltype": "Stainless Steel",
+        "jewelry_price": 400,
+        "jewelry_image": "https://example.com/images/classic_watch.jpg"
+    },
+    {
+        "id": 20,
+        "jewelry_title": "Amethyst Earrings",
+        "jewelry_description": "Beautiful amethyst earrings that shine.",
+        "jewelry_category": "Earrings",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 300,
+        "jewelry_image": "https://example.com/images/amethyst_earrings.jpg"
+    },
+    {
+        "id": 21,
+        "jewelry_title": "Gold Chain Necklace",
+        "jewelry_description": "A stunning gold chain necklace for any occasion.",
+        "jewelry_category": "Necklace",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 950,
+        "jewelry_image": "https://example.com/images/gold_chain_necklace.jpg"
+    },
+    {
+        "id": 22,
+        "jewelry_title": "Ruby Ring",
+        "jewelry_description": "Gorgeous ruby ring with sparkling diamonds.",
+        "jewelry_category": "Ring",
+        "jewelry_metaltype": "White Gold",
+        "jewelry_price": 2200,
+        "jewelry_image": "https://example.com/images/ruby_ring.jpg"
+    },
+    {
+        "id": 23,
+        "jewelry_title": "Opal Necklace",
+        "jewelry_description": "Stunning opal necklace for special occasions.",
+        "jewelry_category": "Necklace",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 1100,
+        "jewelry_image": "https://example.com/images/opal_necklace.jpg"
+    },
+    {
+        "id": 24,
+        "jewelry_title": "Silver Toe Ring",
+        "jewelry_description": "Trendy silver toe ring for summer.",
+        "jewelry_category": "Toe Ring",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 75,
+        "jewelry_image": "https://example.com/images/silver_toe_ring.jpg"
+    },
+    {
+        "id": 25,
+        "jewelry_title": "Lapis Lazuli Pendant",
+        "jewelry_description": "A unique lapis lazuli pendant that stands out.",
+        "jewelry_category": "Pendant",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 600,
+        "jewelry_image": "https://example.com/images/lapis_lazuli_pendant.jpg"
+    },
+    {
+        "id": 26,
+        "jewelry_title": "Citrine Earrings",
+        "jewelry_description": "Bright citrine earrings perfect for a cheerful look.",
+        "jewelry_category": "Earrings",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 350,
+        "jewelry_image": "https://example.com/images/citrine_earrings.jpg"
+    },
+    {
+        "id": 27,
+        "jewelry_title": "Silver Chain Bracelet",
+        "jewelry_description": "Stylish silver chain bracelet for everyday wear.",
+        "jewelry_category": "Bracelet",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 200,
+        "jewelry_image": "https://example.com/images/silver_chain_bracelet.jpg"
+    },
+    {
+        "id": 28,
+        "jewelry_title": "Diamond Tennis Bracelet",
+        "jewelry_description": "Elegant diamond tennis bracelet that sparkles.",
+        "jewelry_category": "Bracelet",
+        "jewelry_metaltype": "White Gold",
+        "jewelry_price": 2500,
+        "jewelry_image": "https://example.com/images/diamond_tennis_bracelet.jpg"
+    },
+    {
+        "id": 29,
+        "jewelry_title": "Black Onyx Necklace",
+        "jewelry_description": "A sleek black onyx necklace for a modern look.",
+        "jewelry_category": "Necklace",
+        "jewelry_metaltype": "None",
+        "jewelry_price": 450,
+        "jewelry_image": "https://example.com/images/black_onyx_necklace.jpg"
+    },
+    {
+        "id": 30,
+        "jewelry_title": "Gold Bar Earrings",
+        "jewelry_description": "Minimalist gold bar earrings for a chic look.",
+        "jewelry_category": "Earrings",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 280,
+        "jewelry_image": "https://example.com/images/gold_bar_earrings.jpg"
+    },
+    {
+        "id": 31,
+        "jewelry_title": "Vintage Charm Bracelet",
+        "jewelry_description": "Charming vintage bracelet with unique charms.",
+        "jewelry_category": "Bracelet",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 300,
+        "jewelry_image": "https://example.com/images/vintage_charm_bracelet.jpg"
+    },
+    {
+        "id": 32,
+        "jewelry_title": "Coral Earrings",
+        "jewelry_description": "Bright coral earrings that pop.",
+        "jewelry_category": "Earrings",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 320,
+        "jewelry_image": "https://example.com/images/coral_earrings.jpg"
+    },
+    {
+        "id": 33,
+        "jewelry_title": "Garnet Ring",
+        "jewelry_description": "A striking garnet ring for special occasions.",
+        "jewelry_category": "Ring",
+        "jewelry_metaltype": "White Gold",
+        "jewelry_price": 950,
+        "jewelry_image": "https://example.com/images/garnet_ring.jpg"
+    },
+    {
+        "id": 34,
+        "jewelry_title": "Silver Heart Necklace",
+        "jewelry_description": "A beautiful silver heart necklace for a loved one.",
+        "jewelry_category": "Necklace",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 400,
+        "jewelry_image": "https://example.com/images/silver_heart_necklace.jpg"
+    },
+    {
+        "id": 35,
+        "jewelry_title": "Fancy Diamond Ring",
+        "jewelry_description": "A fancy diamond ring that sparkles in any light.",
+        "jewelry_category": "Ring",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 3000,
+        "jewelry_image": "https://example.com/images/fancy_diamond_ring.jpg"
+    },
+    {
+        "id": 36,
+        "jewelry_title": "Aquamarine Earrings",
+        "jewelry_description": "Elegant aquamarine earrings for a refreshing look.",
+        "jewelry_category": "Earrings",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 600,
+        "jewelry_image": "https://example.com/images/aquamarine_earrings.jpg"
+    },
+    {
+        "id": 37,
+        "jewelry_title": "Gold Cluster Ring",
+        "jewelry_description": "A stunning gold cluster ring with multiple stones.",
+        "jewelry_category": "Ring",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 1800,
+        "jewelry_image": "https://example.com/images/gold_cluster_ring.jpg"
+    },
+    {
+        "id": 38,
+        "jewelry_title": "Turquoise Ring",
+        "jewelry_description": "Beautiful turquoise ring set in silver.",
+        "jewelry_category": "Ring",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 500,
+        "jewelry_image": "https://example.com/images/turquoise_ring.jpg"
+    },
+    {
+        "id": 39,
+        "jewelry_title": "Diamond Choker",
+        "jewelry_description": "Elegant diamond choker for a sophisticated look.",
+        "jewelry_category": "Necklace",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 2500,
+        "jewelry_image": "https://example.com/images/diamond_choker.jpg"
+    },
+    {
+        "id": 40,
+        "jewelry_title": "Silver Drop Earrings",
+        "jewelry_description": "Stylish silver drop earrings for a trendy look.",
+        "jewelry_category": "Earrings",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 220,
+        "jewelry_image": "https://example.com/images/silver_drop_earrings.jpg"
+    },
+    {
+        "id": 41,
+        "jewelry_title": "Classic Pearl Necklace",
+        "jewelry_description": "Timeless pearl necklace for elegance.",
+        "jewelry_category": "Necklace",
+        "jewelry_metaltype": "None",
+        "jewelry_price": 1200,
+        "jewelry_image": "https://example.com/images/classic_pearl_necklace.jpg"
+    },
+    {
+        "id": 42,
+        "jewelry_title": "Green Jade Bracelet",
+        "jewelry_description": "Beautiful green jade bracelet for good luck.",
+        "jewelry_category": "Bracelet",
+        "jewelry_metaltype": "None",
+        "jewelry_price": 300,
+        "jewelry_image": "https://example.com/images/green_jade_bracelet.jpg"
+    },
+    {
+        "id": 43,
+        "jewelry_title": "Ruby Necklace",
+        "jewelry_description": "Gorgeous ruby necklace that shines bright.",
+        "jewelry_category": "Necklace",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 2500,
+        "jewelry_image": "https://example.com/images/ruby_necklace.jpg"
+    },
+    {
+        "id": 44,
+        "jewelry_title": "Diamond Heart Pendant",
+        "jewelry_description": "A beautiful diamond heart pendant for special occasions.",
+        "jewelry_category": "Pendant",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 900,
+        "jewelry_image": "https://example.com/images/diamond_heart_pendant.jpg"
+    },
+    {
+        "id": 45,
+        "jewelry_title": "Labradorite Earrings",
+        "jewelry_description": "Stunning labradorite earrings with unique colors.",
+        "jewelry_category": "Earrings",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 350,
+        "jewelry_image": "https://example.com/images/labradorite_earrings.jpg"
+    },
+    {
+        "id": 46,
+        "jewelry_title": "Turquoise Cuff Bracelet",
+        "jewelry_description": "Trendy turquoise cuff bracelet for boho style.",
+        "jewelry_category": "Bracelet",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 450,
+        "jewelry_image": "https://example.com/images/turquoise_cuff_bracelet.jpg"
+    },
+    {
+        "id": 47,
+        "jewelry_title": "Moonstone Ring",
+        "jewelry_description": "A magical moonstone ring for a whimsical touch.",
+        "jewelry_category": "Ring",
+        "jewelry_metaltype": "White Gold",
+        "jewelry_price": 1300,
+        "jewelry_image": "https://example.com/images/moonstone_ring.jpg"
+    },
+    {
+        "id": 48,
+        "jewelry_title": "Diamond Cluster Earrings",
+        "jewelry_description": "Elegant diamond cluster earrings that sparkle.",
+        "jewelry_category": "Earrings",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 1800,
+        "jewelry_image": "https://example.com/images/diamond_cluster_earrings.jpg"
+    },
+    {
+        "id": 49,
+        "jewelry_title": "Opal Ring",
+        "jewelry_description": "A stunning opal ring that changes color.",
+        "jewelry_category": "Ring",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 900,
+        "jewelry_image": "https://example.com/images/opal_ring.jpg"
+    },
+    {
+        "id": 50,
+        "jewelry_title": "Gold Flower Earrings",
+        "jewelry_description": "Beautiful gold flower earrings for a delicate look.",
+        "jewelry_category": "Earrings",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 400,
+        "jewelry_image": "https://example.com/images/gold_flower_earrings.jpg"
+    },
+    {
+        "id": 51,
+        "jewelry_title": "Silver Infinity Necklace",
+        "jewelry_description": "Stylish infinity necklace representing eternal love.",
+        "jewelry_category": "Necklace",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 500,
+        "jewelry_image": "https://example.com/images/silver_infinity_necklace.jpg"
+    },
+    {
+        "id": 52,
+        "jewelry_title": "Black Diamond Ring",
+        "jewelry_description": "Stunning black diamond ring for a bold statement.",
+        "jewelry_category": "Ring",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 2200,
+        "jewelry_image": "https://example.com/images/black_diamond_ring.jpg"
+    },
+    {
+        "id": 53,
+        "jewelry_title": "Charming Silver Bangle",
+        "jewelry_description": "Delicate silver bangle for everyday wear.",
+        "jewelry_category": "Bangle",
+        "jewelry_metaltype": "Silver",
+        "jewelry_price": 350,
+        "jewelry_image": "https://example.com/images/charming_silver_bangle.jpg"
+    },
+    {
+        "id": 54,
+        "jewelry_title": "Fancy Sapphire Earrings",
+        "jewelry_description": "Fancy sapphire earrings that catch the eye.",
+        "jewelry_category": "Earrings",
+        "jewelry_metaltype": "White Gold",
+        "jewelry_price": 1200,
+        "jewelry_image": "https://example.com/images/fancy_sapphire_earrings.jpg"
+    },
+    {
+        "id": 55,
+        "jewelry_title": "Diamond Bracelet",
+        "jewelry_description": "An exquisite diamond bracelet that sparkles.",
+        "jewelry_category": "Bracelet",
+        "jewelry_metaltype": "Gold",
+        "jewelry_price": 3000,
+        "jewelry_image": "https://example.com/images/diamond_bracelet.jpg"
+    }
+]

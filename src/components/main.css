@@ -1,0 +1,108 @@
+
+.phase4{
+    overflow: hidden;
+}
+
+.phase4-1 {
+    border: 1px solid white;
+    width: 315px;
+    height: 126px;
+    border-radius: 100%;
+    display: block;
+    transform: skewX(287deg) skewY(24deg);
+    margin-left: 100px;
+    position: relative;
+    top:-91px;
+    left: 200px;
+}
+.phase4-1im{
+    height: 51px;
+    position: relative;
+    top: -189px;
+    left: 552px;
+    transform: rotate(16deg);
+}
+.phase4-1h4{
+    margin-left: 479px;margin-top: -14px;color: white;
+}
+.h3p4-1{
+    margin-left: 479px;margin-top: -120px;color: white;position: relative;
+}
+.phase4-1d{
+    background-color: #eab1ff;
+    height: 86px;
+    width: 88px;
+    border-radius: 50%;
+    position: relative;
+    top: -113px;
+    left: 289px;
+}
+.phase4-1im2{height: 100px;width: 100px;}
+.phase4-2h1{
+    color: white;
+    margin-top: 40px;
+    font-size: 60px;
+    letter-spacing: 3px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 100;
+}
+.phase4-2h2 {
+    color: #b4c3ce;
+    font-size: 65px;
+    font-weight: 100;
+}
+.phase4-2h3 {
+    color: white;
+    font-size: 60px;
+    letter-spacing: 2px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 100;
+}
+.phase4-2im {
+    height: 50px;width: 50px;    
+    position: relative;
+    top: -11px;
+}
+.h3p4-1::after{
+    content: '';
+    position: absolute;
+    height: 0.5px;
+    width: 50px;
+    background-color: white;
+    transition: 0.5s;
+    left: -54px;
+    top: 10px;
+    
+}
+/* .phase5{
+    width: 50%;
+} */
+/* .table{
+    width: 50%;margin: 70px auto;border-collapse: collapse;
+}
+.table td{
+    border-bottom: 1px solid white;
+    color: white;
+}
+.table td:nth-child(1){
+    border-left: 1px solid white;
+}
+.table td:nth-child(2){
+    border-right: 1px solid white;
+}
+.td1img{
+    height: 400px;
+    width: 375px;
+    border: 1px solid white;
+    border-start-end-radius: 247px 241px;
+    border-start-start-radius: 247px 241px;
+}
+.tr2td1{font-size: 40px;color: white;}
+.tr2td1img{height: 30px;
+    width: 30px;
+    position: relative;                                
+    top: 18px;left: -17px;}
+
+.tr2td2{
+    border: 1px solid white;width: 51px;height: 38px;border-radius: 100%;display: block;transform: skewX(320deg);margin-left: 100px;
+} */
