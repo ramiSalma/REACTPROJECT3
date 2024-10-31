@@ -8,6 +8,7 @@ export default function App(){
             <BrowserRouter>
                 <Routes>
                     <Route path='/' element={<Navbar />}>
+                        <Route index element={<Main />} />
                         <Route path='categories' element={<Categories />} />
                     </Route>
                 </Routes>
